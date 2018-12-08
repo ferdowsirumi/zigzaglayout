@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Charmonman|Montserrat|Noto+Serif+TC|Open+Sans|Roboto');
+body{
+    width:100%;
+margin:0px;
+font-family: 'Charmonman';
+}
+
+.header{
+    text-align:center;
+}
+
+
+.header p{
+    text-align:center;
+    color:crimson;
+    font-weight:bold;
+}
+
+.main h3{
+    border:2px solid crimson;
+    background: crimson;
+    color:white;
+    padding:5px 0px;
+    width:35%;
+    text-align: center;
+    display:block;
+}
+
+
+.row{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.main{
+flex:55%;
+padding:5%;
+}
+
+
+.rain{
+    flex:55%;
+    padding:5% ;}
+
+
+
+.side{
+   flex: 20%;
+   padding:5%;
+   
+
+}
+.rumi{
+    width:90%;
+    
+}
+
+hr{
+    width:20%;
+    margin:auto;
+    
+}
+
+
+
+.altaf{
+    font-size: 25px;
+    font-weight: bold;
+}
+.rana{
+    border:10px solid goldenrod;
+
+}
+.side h2{
+    color:crimson;
+    font-weight:bold;
+}
+.rain h3{
+    border:2px solid crimson;
+    background: crimson;
+    color:white;
+    padding:5px 0px;
+    width:30%;
+    text-align: center;
+    display:block;
+}
+.main h2{
+    color:crimson;
+    font-weight: bold;
+}
+
+#test1{
+    background-image: url('band1.jpg');
+}
